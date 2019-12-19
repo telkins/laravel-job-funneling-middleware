@@ -3,3 +3,5 @@ preset: laravel
 disabled:
   - single_class_element_per_statement
   - self_accessor
+
+length_ordered_imports: true
