@@ -1,7 +1,9 @@
 preset: laravel
 
 disabled:
-  - single_class_element_per_statement
+  - alpha_ordered_imports
   - self_accessor
+  - single_class_element_per_statement
 
-length_ordered_imports: true
+enabled:
+  - length_ordered_imports
