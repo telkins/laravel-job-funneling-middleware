@@ -10,7 +10,7 @@ This package contains a [job middleware](https://laravel.com/docs/master/queues#
 
 ## Special Credits
 
-Permission was granted by [Freek Van der Herten](https://github.com/freekmurze) to copy Spatie's [laravel-rate-limited-job-middleware](https://github.com/spatie/laravel-rate-limited-job-middleware)], rename it, and maintain it on my own. As such, the vast bulk of this package is built on theirs. Thanks...!  :-)
+Permission was granted by [Freek Van der Herten](https://github.com/freekmurze) to copy Spatie's [laravel-rate-limited-job-middleware](https://github.com/spatie/laravel-rate-limited-job-middleware), rename it, and maintain it on my own. As such, the vast bulk of this package is built on theirs. Thanks...!  :-)
 
 ## Installation
 
