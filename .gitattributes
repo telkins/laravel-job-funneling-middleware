@@ -9,3 +9,6 @@
 /.scrutinizer.yml   export-ignore
 /tests              export-ignore
 /.editorconfig      export-ignore
+
+# Ignore sublime project file.
+/*.sublime-project  export-ignore
